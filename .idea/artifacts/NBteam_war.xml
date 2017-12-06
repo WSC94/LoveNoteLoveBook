@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NBteam:war">
+    <output-path>$PROJECT_DIR$/NBteam/target</output-path>
+    <root id="archive" name="NBteam.war">
+      <element id="artifact" artifact-name="NBteam:war exploded" />
+    </root>
+  </artifact>
+</component>
